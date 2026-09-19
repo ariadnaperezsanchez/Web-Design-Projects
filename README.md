@@ -30,6 +30,18 @@ E-commerce website where I contributed to design and visual improvements.
 
 ---
 
+## 🍽️ Alkimia
+
+WordPress blog and news section created for the Alkimia restaurant website.
+
+**My work:** WordPress implementation, content structure and visual layout.
+
+🌐 Live website: https://alkimia.cat/xxx/
+
+📁 [View Case Study](alkimia/README.md)
+
+---
+
 ## 🛠️ Skills
 
 - WordPress
@@ -46,14 +58,3 @@ E-commerce website where I contributed to design and visual improvements.
 
 These projects complement my software development portfolio by showcasing my experience creating and improving real-world websites using CMS and e-commerce platforms.
 
----
-
-## 🍽️ Alkimia
-
-WordPress blog and news section created for the Alkimia restaurant website.
-
-**My work:** WordPress implementation, content structure and visual layout.
-
-🌐 Live website: https://alkimia.cat/xxx/
-
-📁 [View Case Study](alkimia/README.md)
